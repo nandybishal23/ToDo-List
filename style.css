@@ -104,3 +104,14 @@ ul{
  }
 
 }
+footer{
+position: fixed;
+width: 100%;
+left: 0;
+bottom: 10px;
+
+text-align: center;
+color: #fff;
+
+}
+
